@@ -1,0 +1,5 @@
+node_modules/
+.agent/
+*.local
+.DS_Store
+.claude

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /NGUYEN-VAN-MINH.pdf
+Disallow: /download-cv
+
+Sitemap: https://mwarevn.github.io/sitemap.xml
